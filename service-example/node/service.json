@@ -1,0 +1,18 @@
+{
+  "memory": 1024,
+  "ttl": 10,
+  "timeout": 40,
+  "minReplicas": 2,
+  "maxReplicas": 4,
+  "workers": 1,
+  "routes": {
+    "status": {
+      "path": "/_v/status/:code",
+      "public": true
+    },
+    "weather": {
+      "path": "/weather",
+      "public": true
+    }
+  }
+}

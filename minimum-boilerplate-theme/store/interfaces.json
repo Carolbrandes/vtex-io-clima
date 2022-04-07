@@ -1,0 +1,8 @@
+{
+    "modal-weather": {
+        "component": "ModalWeather"
+    },
+    "header-custom":{
+        "component": "HeaderCustom"
+    }
+}

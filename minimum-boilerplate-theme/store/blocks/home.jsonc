@@ -1,0 +1,17 @@
+{
+  "store.home": {
+    "blocks": [
+      "rich-text",
+      "modal-weather"
+    ]
+  },
+ 
+  "rich-text": {
+    "props": {
+      "text": "VTEX Store Framework carol",
+      "textAlignment": "CENTER",
+      "textPosition": "CENTER",
+      "font": "t-heading-1"
+    }
+  }
+}
